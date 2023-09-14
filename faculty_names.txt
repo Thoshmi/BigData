@@ -1,0 +1,132 @@
+Name: Pieter Abbeel
+Name: Rediet Abebe
+Name: Ahmed Alaa
+Name: Krste AsanoviÄ
+Name: Babak Ayazifar
+Name: Ruzena Bajcsy
+Name: Michael Ball
+Name: David Bamman
+Name: Brian A. Barsky
+Name: Peter Bartlett
+Name: Alexandre Bayen
+Name: Manuel Blum
+Name: Christian Borgs
+Name: Eric Brewer
+Name: Aydin BuluÃ§
+Name: John F. Canny
+Name: Sarah Chasins
+Name: Jennifer Chayes
+Name: Irene Chen
+Name: Alvin Cheung
+Name: Alessandro Chiesa
+Name: Michael J. Clancy
+Name: Phillip Colella
+Name: Natacha Crooks
+Name: David E. Culler
+Name: Trevor Darrell
+Name: James Demmel
+Name: John DeNero
+Name: Anca Dragan
+Name: Prabal Dutta
+Name: Alexei (Alyosha) Efros
+Name: Laurent El Ghaoui
+Name: Hany Farid
+Name: Richard J. Fateman
+Name: Jerome A. Feldman
+Name: Domenico Ferrari
+Name: Armando Fox
+Name: Gerald Friedland
+Name: Jack Gallant
+Name: Dan Garcia
+Name: Sanjam Garg
+Name: Ali Ghodsi
+Name: Ken Goldberg
+Name: Shafi Goldwasser
+Name: Joseph Gonzalez
+Name: Susan L. Graham
+Name: Venkatesan Guruswami
+Name: Nika Haghtalab
+Name: Moritz Hardt
+Name: Michael A. Harrison
+Name: BjÃ¶rn Hartmann
+Name: Brian Harvey
+Name: Marti Hearst
+Name: Joseph M. Hellerstein
+Name: Paul N. Hilfinger
+Name: Joshua Hug
+Name: Christopher Hunn
+Name: Nilah Ioannidis
+Name: Jiantao Jiao
+Name: Michael Jordan
+Name: Anthony D. Joseph
+Name: William M. Kahan
+Name: Angjoo Kanazawa
+Name: Peyrin Kao
+Name: Richard M. Karp
+Name: Randy H. Katz
+Name: Kurt Keutzer
+Name: Daniel Klein
+Name: Aditi Krishnapriyan
+Name: John D. Kubiatowicz
+Name: Edward A. Lee
+Name: Sergey Levine
+Name: Jennifer Listgarten
+Name: Michael Lustig
+Name: Jitendra Malik
+Name: Igor Mordatch
+Name: Jelani Nelson
+Name: Ren Ng
+Name: Narges Norouzi
+Name: James O'Brien
+Name: Christos Papadimitriou
+Name: Aditya Parameswaran
+Name: Beresford N. Parlett
+Name: David A. Patterson
+Name: Eric Paulos
+Name: Vern Paxson
+Name: Kristofer Pister
+Name: Raluca Ada Popa
+Name: Prasad Raghavendra
+Name: Kannan Ramchandran
+Name: Satish Rao
+Name: Sylvia Ratnasamy
+Name: Benjamin Recht
+Name: Lawrence A. Rowe
+Name: Jaijeet Roychowdhury
+Name: Stuart J. Russell
+Name: Anant Sahai
+Name: Niloufar Salehi
+Name: Koushik Sen
+Name: Carlo H. SÃ©quin
+Name: Sanjit A. Seshia
+Name: Sophia Shao
+Name: Scott Shenker
+Name: Jonathan Shewchuk
+Name: Alistair Sinclair
+Name: Alan J. Smith
+Name: Dawn Song
+Name: Yun S. Song
+Name: Costas J. Spanos
+Name: Jacob Steinhardt
+Name: Ion Stoica
+Name: Michael Stonebraker
+Name: Bernd Sturmfels
+Name: Alane Suhr
+Name: Avishay Tal
+Name: Claire Tomlin
+Name: Umesh Vazirani
+Name: David A. Wagner
+Name: Martin Wainwright
+Name: Laura Waller
+Name: Jean Walrand
+Name: John Wawrzynek
+Name: Max Willsey
+Name: John Wright
+Name: Adam Yala
+Name: Lisa Yan
+Name: Katherine A. Yelick
+Name: Justin Yokota
+Name: Nir Yosef
+Name: Bin Yu
+Name: Stella Yu
+Name: Matei Zaharia
