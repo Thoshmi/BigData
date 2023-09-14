@@ -1,0 +1,132 @@
+Prof Pieter Abbeel Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR)
+Prof Rediet Abebe Research Areas: Artificial Intelligence (AI),Information, Data, Network, and Communication Sciences (IDNCS),Theory (THY)
+Prof Ahmed Alaa Research Areas: 
+Prof Krste AsanoviÄ Research Areas: Computer Architecture & Engineering (ARC),Integrated Circuits (INC),Operating Systems & Networking (OSNT),Design, Modeling and Analysis (DMA),CS 294-252. Systems and Architectures for Warehouse-Scale Computers in the Era of Domain-Specific Hardware
+Prof Babak Ayazifar Research Areas: Education (EDUC),Signal Processing (SP),EE 197-16. Field Study
+Prof Ruzena Bajcsy Research Areas: Artificial Intelligence (AI),Biosystems & Computational Biology (BIO),Control, Intelligent Systems, and Robotics (CIR),Graphics (GR),Human-Computer Interaction (HCI),Security (SEC)
+Prof Michael Ball Research Areas: Education (EDUC),Human-Computer Interaction (HCI),CS 169A. Introduction to Software Engineering
+Prof David Bamman Research Areas: 
+Prof Brian A. Barsky Research Areas: Graphics (GR),Biosystems & Computational Biology (BIO),Human-Computer Interaction (HCI),Signal Processing (SP)
+Prof Peter Bartlett Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR)
+Prof Alexandre Bayen Research Areas: Control, Intelligent Systems, and Robotics (CIR),Artificial Intelligence (AI),Cyber-Physical Systems and Design Automation (CPSDA)
+Prof Manuel Blum Research Areas: 
+Prof Christian Borgs Research Areas: Artificial Intelligence (AI),Theory (THY)
+Prof Eric Brewer Research Areas: Operating Systems & Networking (OSNT),Power and Energy (ENE),Security (SEC)
+Prof Aydin BuluÃ§ Research Areas: Scientific Computing (SCI),Programming Systems (PS),Biosystems & Computational Biology (BIO),Computer Architecture & Engineering (ARC)
+Prof John F. Canny Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Graphics (GR),Human-Computer Interaction (HCI),Security (SEC)
+Prof Sarah Chasins Research Areas: Programming Systems (PS),Human-Computer Interaction (HCI),CS 39. Technology, Society, and Power,CS 164. Programming Languages and Compilers,CS 298-7. Research Culture and Community Norms
+Prof Jennifer Chayes Research Areas: Information, Data, Network, and Communication Sciences (IDNCS),Theory (THY),Biosystems & Computational Biology (BIO)
+Prof Irene Chen Research Areas: Artificial Intelligence (AI),Biosystems & Computational Biology (BIO),EE 299-119. Individual Research
+Prof Alvin Cheung Research Areas: Database Management Systems (DBMS),Programming Systems (PS),CS 186. Introduction to Database Systems
+Prof Alessandro Chiesa Research Areas: Security (SEC),Theory (THY)
+Prof Michael J. Clancy Research Areas: Education (EDUC)
+Prof Phillip Colella Research Areas: 
+Prof Natacha Crooks Research Areas: Database Management Systems (DBMS),Operating Systems & Networking (OSNT),CS 162. Operating Systems and System Programming,CS 298-7. Research Culture and Community Norms
+Prof David E. Culler Research Areas: Computer Architecture & Engineering (ARC),Power and Energy (ENE),Operating Systems & Networking (OSNT),Cyber-Physical Systems and Design Automation (CPSDA),Programming Systems (PS),Security (SEC)
+Prof Trevor Darrell Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR)
+Prof James Demmel Research Areas: Computer Architecture & Engineering (ARC),Scientific Computing (SCI)
+Prof John DeNero Research Areas: Artificial Intelligence (AI),Education (EDUC),CS 47A. Completion of Work in Computer Science 61A,CS 61A-2. The Structure and Interpretation of Computer Programs
+Prof Anca Dragan Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Human-Computer Interaction (HCI)
+Prof Prabal Dutta Research Areas: Computer Architecture & Engineering (ARC),Cyber-Physical Systems and Design Automation (CPSDA),Power and Energy (ENE),Operating Systems & Networking (OSNT),CS C249A. Introduction to Embedded Systems,EECS 149. Introduction to Embedded and Cyber Physical Systems,EE C249A. Introduction to Embedded Systems,EE 375. Teaching Techniques for Electrical Engineering
+Prof Alexei (Alyosha) Efros Research Areas: Artificial Intelligence (AI),Graphics (GR),CS 180. Intro to Computer Vision and Computational Photography,CS 280A. Intro to Computer Vision and Computational Photography
+Prof Laurent El Ghaoui Research Areas: Control, Intelligent Systems, and Robotics (CIR)
+Prof Hany Farid Research Areas: Graphics (GR)
+Prof Richard J. Fateman Research Areas: Artificial Intelligence (AI),Scientific Computing (SCI)
+Prof Jerome A. Feldman Research Areas: Artificial Intelligence (AI),Biosystems & Computational Biology (BIO),Security (SEC)
+Prof Domenico Ferrari Research Areas: 
+Prof Armando Fox Research Areas: Programming Systems (PS),Education (EDUC),Human-Computer Interaction (HCI),CS 169A. Introduction to Software Engineering,CS 194-244. STAR Assessments for Proficiency-Based Learning,CS 294-244. STAR Assessments for Proficiency-Based Learning
+Prof Gerald Friedland Research Areas: Signal Processing (SP),Artificial Intelligence (AI),Information, Data, Network, and Communication Sciences (IDNCS)
+Prof Jack Gallant Research Areas: Biosystems & Computational Biology (BIO)
+Prof Dan Garcia Research Areas: Education (EDUC),Graphics (GR),CS 10. The Beauty and Joy of Computing,CS 47C. Completion of Work in Computer Science 61C,CS 61C. Great Ideas of Computer Architecture (Machine Structures),CS 194-244. STAR Assessments for Proficiency-Based Learning,CS 198-2. Gamescrafters,CS 294-244. STAR Assessments for Proficiency-Based Learning
+Prof Sanjam Garg Research Areas: Theory (THY),Security (SEC)
+Prof Ali Ghodsi Research Areas: Database Management Systems (DBMS),Operating Systems & Networking (OSNT)
+Prof Ken Goldberg Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Human-Computer Interaction (HCI)
+Prof Shafi Goldwasser Research Areas: Theory (THY)
+Prof Joseph Gonzalez Research Areas: Artificial Intelligence (AI),Database Management Systems (DBMS),Operating Systems & Networking (OSNT),CS 294-162. Machine Learning Systems
+Prof Susan L. Graham Research Areas: Graphics (GR),Human-Computer Interaction (HCI),Programming Systems (PS),Scientific Computing (SCI)
+Prof Venkatesan Guruswami Research Areas: Theory (THY),Information, Data, Network, and Communication Sciences (IDNCS)
+Prof Nika Haghtalab Research Areas: Artificial Intelligence (AI),Theory (THY),CS 170. Efficient Algorithms and Intractable Problems
+Prof Moritz Hardt Research Areas: 
+Prof Michael A. Harrison Research Areas: Programming Systems (PS),Theory (THY)
+Prof BjÃ¶rn Hartmann Research Areas: Human-Computer Interaction (HCI),Programming Systems (PS),Cyber-Physical Systems and Design Automation (CPSDA),Graphics (GR),CS 294-137. Immersive Computing and Virtual Reality
+Prof Brian Harvey Research Areas: Education (EDUC)
+Prof Marti Hearst Research Areas: Human-Computer Interaction (HCI),Artificial Intelligence (AI)
+Prof Joseph M. Hellerstein Research Areas: Database Management Systems (DBMS),Operating Systems & Networking (OSNT),CS 298-12. Database Seminar
+Prof Paul N. Hilfinger Research Areas: Programming Systems (PS),Scientific Computing (SCI)
+Prof Joshua Hug Research Areas: Education (EDUC)
+Prof Christopher Hunn Research Areas: CS 370. Adaptive Instruction Methods in Computer Science,CS 370-2. Adaptive Instruction Methods in Computer Science
+Prof Nilah Ioannidis Research Areas: Biosystems & Computational Biology (BIO),Artificial Intelligence (AI)
+Prof Jiantao Jiao Research Areas: Artificial Intelligence (AI),Information, Data, Network, and Communication Sciences (IDNCS),Control, Intelligent Systems, and Robotics (CIR),Theory (THY),Signal Processing (SP),Operating Systems & Networking (OSNT),Database Management Systems (DBMS),Cyber-Physical Systems and Design Automation (CPSDA),Security (SEC),Power and Energy (ENE),Programming Systems (PS),EECS 126. Probability and Random Processes
+Prof Michael Jordan Research Areas: Artificial Intelligence (AI),Biosystems & Computational Biology (BIO),Control, Intelligent Systems, and Robotics (CIR),Signal Processing (SP),Theory (THY)
+Prof Anthony D. Joseph Research Areas: Operating Systems & Networking (OSNT),Security (SEC)
+Prof William M. Kahan Research Areas: Computer Architecture & Engineering (ARC),Scientific Computing (SCI)
+Prof Angjoo Kanazawa Research Areas: Artificial Intelligence (AI),Graphics (GR),CS 180. Intro to Computer Vision and Computational Photography,CS 280A. Intro to Computer Vision and Computational Photography
+Prof Peyrin Kao Research Areas: CS 47B-2. Completion of Work in Computer Science 61B,CS 61B. Data Structures,CS 161. Computer Security,CS 188. Introduction to Artificial Intelligence
+Prof Richard M. Karp Research Areas: Biosystems & Computational Biology (BIO),Operating Systems & Networking (OSNT),Theory (THY)
+Prof Randy H. Katz Research Areas: Computer Architecture & Engineering (ARC),Operating Systems & Networking (OSNT)
+Prof Kurt Keutzer Research Areas: Artificial Intelligence (AI),Computer Architecture & Engineering (ARC),Scientific Computing (SCI)
+Prof Daniel Klein Research Areas: Artificial Intelligence (AI),CS 288. Natural Language Processing
+Prof Aditi Krishnapriyan Research Areas: Artificial Intelligence (AI),Scientific Computing (SCI)
+Prof John D. Kubiatowicz Research Areas: Operating Systems & Networking (OSNT),Security (SEC),CS 262A. Advanced Topics in Computer Systems
+Prof Edward A. Lee Research Areas: Cyber-Physical Systems and Design Automation (CPSDA),Programming Systems (PS),Signal Processing (SP),Computer Architecture & Engineering (ARC),Information, Data, Network, and Communication Sciences (IDNCS),Design, Modeling and Analysis (DMA)
+Prof Sergey Levine Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),CS 285. Deep Reinforcement Learning, Decision Making, and Control
+Prof Jennifer Listgarten Research Areas: Biosystems & Computational Biology (BIO),Artificial Intelligence (AI),CS 189. Introduction to Machine Learning,CS 289A. Introduction to Machine Learning
+Prof Michael Lustig Research Areas: Signal Processing (SP),Scientific Computing (SCI),Physical Electronics (PHY),Information, Data, Network, and Communication Sciences (IDNCS),Biosystems & Computational Biology (BIO),Control, Intelligent Systems, and Robotics (CIR),Artificial Intelligence (AI),Computer Architecture & Engineering (ARC),Database Management Systems (DBMS),Design, Modeling and Analysis (DMA),Power and Energy (ENE),Graphics (GR),Human-Computer Interaction (HCI),Integrated Circuits (INC),Micro/Nano Electro Mechanical Systems (MEMS),Operating Systems & Networking (OSNT),Programming Systems (PS),Security (SEC),EE 197-13. Field Study
+Prof Jitendra Malik Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Signal Processing (SP),CS 189. Introduction to Machine Learning,CS 289A. Introduction to Machine Learning
+Prof Igor Mordatch Research Areas: Artificial Intelligence (AI),CS 188. Introduction to Artificial Intelligence
+Prof Jelani Nelson Research Areas: Theory (THY),Database Management Systems (DBMS)
+Prof Ren Ng Research Areas: Graphics (GR),Signal Processing (SP),Artificial Intelligence (AI),CS 194-164. Computational Color,CS 294-164. Special Topics
+Prof Narges Norouzi Research Areas: Education (EDUC),Artificial Intelligence (AI),Biosystems & Computational Biology (BIO)
+Prof James O'Brien Research Areas: Graphics (GR),Artificial Intelligence (AI),Human-Computer Interaction (HCI),Scientific Computing (SCI)
+Prof Christos Papadimitriou Research Areas: Biosystems & Computational Biology (BIO),Theory (THY)
+Prof Aditya Parameswaran Research Areas: Database Management Systems (DBMS),Human-Computer Interaction (HCI),CS 298-12. Database Seminar
+Prof Beresford N. Parlett Research Areas: 
+Prof David A. Patterson Research Areas: Computer Architecture & Engineering (ARC),Operating Systems & Networking (OSNT)
+Prof Eric Paulos Research Areas: Human-Computer Interaction (HCI)
+Prof Vern Paxson Research Areas: Security (SEC),Operating Systems & Networking (OSNT)
+Prof Kristofer Pister Research Areas: Micro/Nano Electro Mechanical Systems (MEMS),Control, Intelligent Systems, and Robotics (CIR),Integrated Circuits (INC)
+Prof Raluca Ada Popa Research Areas: Operating Systems & Networking (OSNT),Security (SEC),CS 261. Security in Computer Systems
+Prof Prasad Raghavendra Research Areas: Theory (THY),CS 298-2. Theory Seminar
+Prof Kannan Ramchandran Research Areas: Information, Data, Network, and Communication Sciences (IDNCS),Signal Processing (SP),Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),EE 120. Signals and Systems
+Prof Satish Rao Research Areas: Biosystems & Computational Biology (BIO),Theory (THY),CS 61A. The Structure and Interpretation of Computer Programs,CS 70. Discrete Mathematics and Probability Theory,CS 197-70. Field Study
+Prof Sylvia Ratnasamy Research Areas: Operating Systems & Networking (OSNT)
+Prof Benjamin Recht Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Signal Processing (SP),CS C281A. Statistical Learning Theory
+Prof Lawrence A. Rowe Research Areas: 
+Prof Jaijeet Roychowdhury Research Areas: Cyber-Physical Systems and Design Automation (CPSDA),Integrated Circuits (INC),Information, Data, Network, and Communication Sciences (IDNCS),Computer Architecture & Engineering (ARC),Control, Intelligent Systems, and Robotics (CIR),Artificial Intelligence (AI),EE 290-7. Advanced Topics in Electrical Engineering
+Prof Stuart J. Russell Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Biosystems & Computational Biology (BIO)
+Prof Anant Sahai Research Areas: Information, Data, Network, and Communication Sciences (IDNCS),Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Theory (THY),Signal Processing (SP),CS 182. Designing, Visualizing and Understanding Deep Neural Networks,CS 282A. Designing, Visualizing and Understanding Deep Neural Networks
+Prof Niloufar Salehi Research Areas: Human-Computer Interaction (HCI)
+Prof Koushik Sen Research Areas: Programming Systems (PS),Security (SEC),CS 264. Implementation of Programming Languages
+Prof Carlo H. SÃ©quin Research Areas: Graphics (GR),Human-Computer Interaction (HCI)
+Prof Sanjit A. Seshia Research Areas: Cyber-Physical Systems and Design Automation (CPSDA),Programming Systems (PS),Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Security (SEC),Theory (THY),CS C249A. Introduction to Embedded Systems,EECS 149. Introduction to Embedded and Cyber Physical Systems,EE C249A. Introduction to Embedded Systems
+Prof Sophia Shao Research Areas: Computer Architecture & Engineering (ARC),Integrated Circuits (INC),Cyber-Physical Systems and Design Automation (CPSDA)
+Prof Scott Shenker Research Areas: Operating Systems & Networking (OSNT)
+Prof Jonathan Shewchuk Research Areas: Scientific Computing (SCI),Theory (THY),Graphics (GR)
+Prof Alistair Sinclair Research Areas: Theory (THY),CS 294-180. Partition Functions: Algorithms & Complexity
+Prof Alan J. Smith Research Areas: Computer Architecture & Engineering (ARC),Operating Systems & Networking (OSNT)
+Prof Dawn Song Research Areas: Artificial Intelligence (AI),Operating Systems & Networking (OSNT),Security (SEC),Programming Systems (PS),CS 194-177. Special Topics on Decentralized Finance,CS 194-196. Special Topics on Science and Technology of Decentralization and Decentralized Intelligence,CS 294-177. Special Topics on Decentralized Finance,CS 294-196. Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+Prof Yun S. Song Research Areas: Biosystems & Computational Biology (BIO),Artificial Intelligence (AI),Theory (THY)
+Prof Costas J. Spanos Research Areas: Power and Energy (ENE),Integrated Circuits (INC),Physical Electronics (PHY)
+Prof Jacob Steinhardt Research Areas: Artificial Intelligence (AI),Information, Data, Network, and Communication Sciences (IDNCS)
+Prof Ion Stoica Research Areas: Operating Systems & Networking (OSNT),Security (SEC)
+Prof Michael Stonebraker Research Areas: 
+Prof Bernd Sturmfels Research Areas: Biosystems & Computational Biology (BIO),Theory (THY)
+Prof Alane Suhr Research Areas: Artificial Intelligence (AI),CS 288. Natural Language Processing
+Prof Avishay Tal Research Areas: Theory (THY),CS 70. Discrete Mathematics and Probability Theory,CS 298-2. Theory Seminar
+Prof Claire Tomlin Research Areas: Control, Intelligent Systems, and Robotics (CIR),Biosystems & Computational Biology (BIO)
+Prof Umesh Vazirani Research Areas: Theory (THY),Security (SEC)
+Prof David A. Wagner Research Areas: Security (SEC),CS 298-3. EECS Colloquium
+Prof Martin Wainwright Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Information, Data, Network, and Communication Sciences (IDNCS),Signal Processing (SP),Theory (THY)
+Prof Laura Waller Research Areas: Physical Electronics (PHY),Signal Processing (SP),Biosystems & Computational Biology (BIO),Graphics (GR)
+Prof Jean Walrand Research Areas: Information, Data, Network, and Communication Sciences (IDNCS)
+Prof John Wawrzynek Research Areas: Computer Architecture & Engineering (ARC),Design, Modeling and Analysis (DMA),CS 194-256. Machine Learning for Hardware Design,CS 294-256. Machine Learning for Hardware Design
+Prof Max Willsey Research Areas: Programming Systems (PS)
+Prof John Wright Research Areas: Theory (THY),CS 170. Efficient Algorithms and Intractable Problems
+Prof Adam Yala Research Areas: Artificial Intelligence (AI)
+Prof Lisa Yan Research Areas: Education (EDUC),CS 39. Technology, Society, and Power,CS 195. Social Implications of Computer Technology,CS H195. Honors Social Implications of Computer Technology
+Prof Katherine A. Yelick Research Areas: Programming Systems (PS),Scientific Computing (SCI),Biosystems & Computational Biology (BIO)
+Prof Justin Yokota Research Areas: CS 47B-2. Completion of Work in Computer Science 61B,CS 61B. Data Structures,CS 61C. Great Ideas of Computer Architecture (Machine Structures)
+Prof Nir Yosef Research Areas: Biosystems & Computational Biology (BIO)
+Prof Bin Yu Research Areas: Signal Processing (SP)
+Prof Stella Yu Research Areas: Artificial Intelligence (AI),Control, Intelligent Systems, and Robotics (CIR),Graphics (GR),Signal Processing (SP)
+Prof Matei Zaharia Research Areas: Operating Systems & Networking (OSNT),Artificial Intelligence (AI),Database Management Systems (DBMS),CS 194-196. Special Topics on Science and Technology of Decentralization and Decentralized Intelligence,CS 294-162. Machine Learning Systems,CS 294-196. Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
